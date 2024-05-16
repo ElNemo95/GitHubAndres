@@ -7,6 +7,8 @@ namespace PartsUnlimited.Models
 {
     public class Manufacturer
     {
+
+        //Nemo de la Gente
         public int ManufacturerId { get; set; }
 
         [Required]
