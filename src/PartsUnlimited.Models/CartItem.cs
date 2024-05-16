@@ -8,6 +8,8 @@ namespace PartsUnlimited.Models
 {
     public class CartItem
     {
+
+        //My second
         [Key]
         public int CartItemId { get; set; }
 
