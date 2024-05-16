@@ -5,6 +5,8 @@ namespace PartsUnlimited.Models
 {
     public class OrderDetail
     {
+
+        //New Change Kylian Mbappe
         public int OrderDetailId { get; set; }
 
         public int OrderId { get; set; }
