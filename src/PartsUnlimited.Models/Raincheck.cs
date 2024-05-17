@@ -5,6 +5,8 @@ namespace PartsUnlimited.Models
 {
     public class Raincheck
     {
+
+        // Mi primera chamba
         public int RaincheckId { get; set; }
 
         public string Name { get; set; }
